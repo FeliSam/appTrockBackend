@@ -1,0 +1,316 @@
+[{
+  "_id": {
+    "$oid": "6406e9c9986300d4845dc3c9"
+  },
+  "citiesID": 1,
+  "name": "Banikoara",
+  "latitude": "11.29845000",
+  "longitude": "2.43856000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ea43986300d4845dc3ca"
+  },
+  "citiesID": 2,
+  "name": "Kandi",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eafb986300d4845dc3cb"
+  },
+  "citiesID": 3,
+  "name": "Malanville",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb06986300d4845dc3cc"
+  },
+  "citiesID": 4,
+  "name": "Guilmaro",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb10986300d4845dc3cd"
+  },
+  "citiesID": 5,
+  "name": "Natitingou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb19986300d4845dc3ce"
+  },
+  "citiesID": 6,
+  "name": "Tanguieta",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb25986300d4845dc3cf"
+  },
+  "citiesID": 7,
+  "name": "Abomey-Calavi",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb5e986300d4845dc3d0"
+  },
+  "citiesID": 8,
+  "name": "Allada",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb67986300d4845dc3d1"
+  },
+  "citiesID": 9,
+  "name": "Hévié",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb71986300d4845dc3d2"
+  },
+  "citiesID": 10,
+  "name": "Hinvi",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb7e986300d4845dc3d3"
+  },
+  "citiesID": 11,
+  "name": "Ouidah",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb89986300d4845dc3d4"
+  },
+  "citiesID": 12,
+  "name": "Bembèrèkè",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eb95986300d4845dc3d5"
+  },
+  "citiesID": 13,
+  "name": "Bétérou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406eba1986300d4845dc3d6"
+  },
+  "citiesID": 14,
+  "name": "Nikki",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ebae986300d4845dc3d7"
+  },
+  "citiesID": 15,
+  "name": "Parakou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ebb3986300d4845dc3d8"
+  },
+  "citiesID": 16,
+  "name": "Tchaourou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ebd0986300d4845dc3d9"
+  },
+  "citiesID": 17,
+  "name": "Comé",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ebd6986300d4845dc3da"
+  },
+  "citiesID": 18,
+  "name": "Dassa-Zoumé",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ebe1986300d4845dc3db"
+  },
+  "citiesID": 19,
+  "name": "Savalou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ebf6986300d4845dc3dc"
+  },
+  "citiesID": 20,
+  "name": "Savé",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec0b986300d4845dc3dd"
+  },
+  "citiesID": 21,
+  "name": "Bassila",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec16986300d4845dc3de"
+  },
+  "citiesID": 22,
+  "name": "Djougou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec1e986300d4845dc3df"
+  },
+  "citiesID": 23,
+  "name": "Djakotomey",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec28986300d4845dc3e0"
+  },
+  "citiesID": 24,
+  "name": "Dogbo",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec32986300d4845dc3e1"
+  },
+  "citiesID": 25,
+  "name": "Cotonou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec43986300d4845dc3e2"
+  },
+  "citiesID": 26,
+  "name": "Athieme",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec58986300d4845dc3e3"
+  },
+  "citiesID": 27,
+  "name": "Lokossa",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec64986300d4845dc3e4"
+  },
+  "citiesID": 28,
+  "name": "Porto-Novo",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec6f986300d4845dc3e5"
+  },
+  "citiesID": 29,
+  "name": "Kétou",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec76986300d4845dc3e6"
+  },
+  "citiesID": 30,
+  "name": "Pobé",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec7c986300d4845dc3e7"
+  },
+  "citiesID": 31,
+  "name": "Sakété",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec85986300d4845dc3e8"
+  },
+  "citiesID": 32,
+  "name": "Abomey",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec91986300d4845dc3e9"
+  },
+  "citiesID": 33,
+  "name": "Bohicon",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ec97986300d4845dc3ea"
+  },
+  "citiesID": 34,
+  "name": "Agbangnizoun",
+  "latitude": "11.13417000",
+  "longitude": "2.93861000",
+  "country_id": 1
+},{
+  "_id": {
+    "$oid": "6406ecc0986300d4845dc3eb"
+  },
+  "citiesID": 35,
+  "name": "Cové",
+  "latitude": "7.22097000",
+  "longitude": "2.34017000",
+  "country_id": 1
+}]

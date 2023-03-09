@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "6406e55b986300d4845dc3c1"
+  },
+  "countryID": 1,
+  "countryName": "Benin",
+  "countryValue": "🇧🇯 Benin",
+  "phone_code": 229,
+  "currency": "CFA",
+  "region": "Africa",
+  "latitude": "9.50000000",
+  "longitude": "2.25000000",
+  "emoji": "🇧🇯",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184280000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6406e5b3986300d4845dc3c2"
+  },
+  "countryID": 2,
+  "countryName": "Cote D'Ivoire",
+  "countryValue": "🇨🇮 Cote D'Ivoire",
+  "phone_code": 225,
+  "currency": "CFA",
+  "region": "Africa",
+  "latitude": "8.00000000",
+  "longitude": "-5.00000000",
+  "emoji": "🇨🇮",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6406e624986300d4845dc3c3"
+  },
+  "countryID": 3,
+  "countryName": "Togo",
+  "countryValue": "🇹🇬 Togo",
+  "phone_code": 228,
+  "currency": "CFA",
+  "region": "Africa",
+  "latitude": "8.00000000",
+  "longitude": "1.16666666",
+  "emoji": "🇹🇬",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184520000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6406e694986300d4845dc3c4"
+  },
+  "countryID": 4,
+  "countryName": "Burkina Faso",
+  "countryValue": "🇧🇫 Burkina Faso",
+  "phone_code": 226,
+  "currency": "CFA",
+  "region": "Africa",
+  "latitude": "13.00000000",
+  "longitude": "-2.00000000",
+  "emoji": "🇧🇫",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184580000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6406e6ef986300d4845dc3c5"
+  },
+  "countryID": 5,
+  "countryName": "Cameroon",
+  "countryValue": "🇨🇲 Cameroon",
+  "phone_code": 237,
+  "currency": "FCFA",
+  "region": "Africa",
+  "latitude": "6.00000000",
+  "longitude": "12.00000000",
+  "emoji": "🇨🇲",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184580000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6406e769986300d4845dc3c6"
+  },
+  "countryID": 6,
+  "countryName": "Congo",
+  "countryValue": "🇨🇬 Congo",
+  "phone_code": 242,
+  "currency": "FC",
+  "region": "Africa",
+  "latitude": "-1.00000000",
+  "longitude": "15.00000000",
+  "emoji": "🇨🇬",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184580000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6406e7de986300d4845dc3c7"
+  },
+  "countryID": 7,
+  "countryName": "Congo (RDC)",
+  "countryValue": "🇨🇩 Congo (RDC)",
+  "phone_code": 241,
+  "currency": "FC",
+  "region": "Africa",
+  "latitude": "0.00000000",
+  "longitude": "25.00000000",
+  "emoji": "🇨🇩",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184940000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6406e82b986300d4845dc3c8"
+  },
+  "countryID": 8,
+  "countryName": "Mali",
+  "countryValue": "🇲🇱 Mali",
+  "phone_code": 223,
+  "currency": "CFA",
+  "region": "Africa",
+  "latitude": "17.00000000",
+  "longitude": "-4.00000000",
+  "emoji": "🇲🇱",
+  "date": {
+    "$date": {
+      "$numberLong": "1678184940000"
+    }
+  }
+}]
